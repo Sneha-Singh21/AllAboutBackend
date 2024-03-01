@@ -1,0 +1,24 @@
+{
+  "name": "basicbackendserver",
+  "version": "1.0.0",
+  "description": "we will create a basic backend to do some req and res",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneha-Singh21/AllAboutBackend.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "chai"
+  ],
+  "author": "sneha singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sneha-Singh21/AllAboutBackend/issues"
+  },
+  "homepage": "https://github.com/Sneha-Singh21/AllAboutBackend#readme"
+}
